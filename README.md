@@ -2,12 +2,16 @@
 
 📌 **Deployed on Heroku**: [TaskMaster Live Demo](https://taskmaster-dev-c6d2824b2c71.herokuapp.com/)  
 
+## 🔗 GitHub Repository  
+🚀 **View Source Code:** [GitHub Repo](https://github.com/minyoungkim525-dev/taskmaster-flask)  
+
 ## 📌 About This Project
 TaskMaster is a simple **to-do list** application built using **Flask** and **SQLAlchemy**, deployed on **Heroku**.  
 It allows users to:
 - ✅ Add new tasks
 - 📄 View existing tasks
 - 🗑️ Delete completed tasks
+- 🎨 Minimalist UI
 
 ## 📌 Technologies Used
 - 🐍 **Python** (Flask, SQLAlchemy)
